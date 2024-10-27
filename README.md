@@ -25,7 +25,7 @@ To clone and run this project, you'll need [Git](https://git-scm.com) and [Andro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TodoGenie.git
+   https://github.com/IsuruSankhajith/TodoGenie
    ```
 
 2. Open the project in Android Studio.
