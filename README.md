@@ -15,13 +15,8 @@ TodoGenie is a basic to-do list application built using Kotlin and Android. It h
 - **Edge-to-Edge UI**: Designed to take advantage of Android's edge-to-edge system gestures for modern UI design.
 - **Kotlin Coroutines**: Handles operations like task management using coroutines for better performance.
 
-## Screenshots
-![Screenshot_20241023_130735](https://github.com/user-attachments/assets/1702efda-bd1f-44a0-9fce-109afcf0e808) ,
-![Screenshot_20241023_130903](https://github.com/user-attachments/assets/1c61df94-2efc-41a6-aacd-7c8ab48d969c) ,
-![Screenshot_20241023_131433](https://github.com/user-attachments/assets/fedb7948-fed7-43b3-acd1-1fd8b59b015d) ,
-![Screenshot_20241023_131738](https://github.com/user-attachments/assets/b2ef4725-1daa-4c5a-aef5-8a8258d705bc)
-
-
+## Demonstartion 
+https://github.com/user-attachments/assets/a2b378d3-d767-4c72-af93-da50d6ad47a3
 
 
 ## Installation and Setup
